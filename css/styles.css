@@ -1,0 +1,198 @@
+
+/* #1  */
+
+/* body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 80vh;
+    position: relative;
+}
+
+.header{
+    height: 10vh;
+    background-color: purple;
+}
+
+.sidebar{
+    height: 80vh;
+    width: 20%;
+    background-color: green;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.main_content{
+    height: 80vh;
+    width: 80%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.footer{
+    height: 10vh;
+    background-color: blue;
+} */
+
+
+
+
+
+/* #2 2 columns */
+/* 
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 100vh;
+    position: relative;
+}
+
+
+.sidebar{
+    height: 100vh;
+    width: 20%;
+    background-color: green;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.main_content{
+    height: 100vh;
+    width: 80%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+} */
+
+
+/* #3 holy grail */
+/* body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 80vh;
+    position: relative;
+}
+
+.header{
+    height: 10vh;
+    background-color: purple;
+}
+
+.sidebar{
+    height: 80vh;
+    width: 20%;
+    background-color: green;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.main_content{
+    height: 80vh;
+    width: 80%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.footer{
+    height: 10vh;
+    background-color: blue;
+} */
+
+
+/* #4 3 columns */
+/* body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.sidebar{
+    height: 100vh;
+    width: 20%;
+    background-color: green;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.main_content{
+    height: 100vh;
+    width: 60%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px -4px 0 -4px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: relative;
+} */
+
+
+/* #5 grid */
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 33.333vh;
+    width: 100vw;
+}
+
+.sidebar{
+    height: 100%;
+    width: 33.333%;
+    background-color: green;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.main_content{
+    height: 100%;
+    width: 33.333%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px -4px 0 -4px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: relative;
+}
+
+
+
