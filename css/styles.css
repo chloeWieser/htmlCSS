@@ -1,7 +1,7 @@
 
 /* #1  */
 
-/* body{
+body{
     padding: 0px;
     margin: 0px;
 }
@@ -42,7 +42,7 @@
 .footer{
     height: 10vh;
     background-color: blue;
-} */
+} 
 
 
 
@@ -159,9 +159,9 @@ body{
     position: relative;
 } */
 
-
+/* 
 /* #5 grid */
-body{
+/* body{
     padding: 0px;
     margin: 0px;
 }
@@ -192,7 +192,7 @@ body{
     box-sizing: border-box;
     border: 1px solid black;
     position: relative;
-}
+} */ */
 
 
 
