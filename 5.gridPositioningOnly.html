@@ -12,39 +12,45 @@
 }
 
         .container{
-            height: 100vh;
+            height: 33.333vh;
             width: 100vw;  
             position:relative;         
         }
 
         .sidebar1{
             height: 100%;
-            width: 20%;
+            width: 33.333%;
             background-color: green;
             margin: 0px;
             padding: 0px;
             position:absolute;
             left:0px;
+            box-sizing: border-box;
+            border: 1px solid black;           
+
         }
 
         .main_content{
             height: 100%;
-            width: 60%;
+            width: 33.333%;
             background-color: yellow;
             padding: 0px;
             position:absolute;
-            left:20%;
-
+            left: 33.333%;
+            box-sizing: border-box;
+            border: 1px solid black;
         }
 
         .sidebar2{
             height: 100%;
-            width: 20%;
+            width: 33.333%;
             background-color: green;
             margin: 0px;
             padding: 0px;
             position:absolute;
             right:0px;
+            box-sizing: border-box;
+            border: 1px solid black;
         }
 
 
@@ -54,6 +60,28 @@
 
 
 <body>
+    <div class="container">
+        <div class="sidebar1">
+            side bar 1
+        </div>
+        <div class="main_content">
+            main content
+        </div>
+        <div class="sidebar2">
+            side bar 2
+        </div>
+    </div>
+    <div class="container">
+        <div class="sidebar1">
+            side bar 1
+        </div>
+        <div class="main_content">
+            main content
+        </div>
+        <div class="sidebar2">
+            side bar 2
+        </div>
+    </div>
     <div class="container">
         <div class="sidebar1">
             side bar 1
